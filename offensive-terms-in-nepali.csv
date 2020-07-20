@@ -22,7 +22,7 @@ abujh,अबूझ,अबुझ,abujh,2,0,Other,
 abujhaki,अबुझकी,अबुझकी,abujhaki,2,0,Other,
 abhiman,अभिमान,अभिमान,abhiman,1,0,Other,
 abhimani,अभिमानी,अभिमानी,abhimani,1,0,Other,
-aringal,अरीङ्गाल,अरिङ्गाल,aringal,1,0,Creature / Animal,
+aringal,अरीङ्गाल,अरिङ्गाल,aringal,1,0,Animal,
 ardha pagal,अर्ध पागल,अर्धपागल,ardhapagal,3,0,Disability,
 arda pagal,अर्ध पागल,अर्धपागल,ardhapagal,3,0,Disability,
 hafmind,अर्ध पागल,अर्धपागल,ardhapagal,3,0,Disability,
@@ -63,8 +63,8 @@ puar patar,उफर पाटर,उछारपछार,uchharpachhar,1,0,Oth
 uphar patar,उफर पटार,उछारपछार,uchharpachhar,1,0,Other,
 ucharpato,उछारपाटो,उछारपाटो,ucharpato,1,0,Other,
 ulphako dhan bokera phupu ko sradha,उल्फाको धन बोकेर फूपूको श्राद्ध,उल्फाको धन फुपूको श्राद्ध,ulphako dhan bokera phupuko sraddha,1,0,Idiom,Politics
-ullu,उल्लू,उल्लु,ullu,1,0,Creature / Animal,
-ulluka patta,उल्लूका पट्टा,उल्लूका पट्टा,ulluka patta,3,0,Creature / Animal,Imported
+ullu,उल्लू,उल्लु,ullu,1,0,Animal,
+ulluka patta,उल्लूका पट्टा,उल्लूका पट्टा,ulluka patta,3,0,Animal,Imported
 aids,एड्स,एड्स,aids,1,0,Disease,
 aijheru,अैंझेरु,ऐझेरु,aijheru,1,0,Plant,
 aijheru,अैझेरु,ऐझेरु,aijheru,1,0,Plant,
@@ -118,12 +118,12 @@ kano,कानो,कानो,kano,4,0,Disability,
 kanu,कानु,कानो,kano,4,0,Disability,
 kami,कामी,कामी,kami,1,0,Race,
 kayar,कायर,कायर,kayar,2,0,Other,
-katike,कातिके,कार्तिके,katike,2,0,Creature / Animal,
+katike,कातिके,कार्तिके,katike,2,0,Animal,
 kalle pani kati bachako,कालले पनि कती बचाएको,कालले पनि कती बचाएको,kalle pani kati bachako,3,0,Death,
 kalo jhanda,कालो झण्डा,कालो झण्डा,kalo jhanda,1,0,Politics,
 kiriya,किरिया,किरिया,kiriya,2,0,Death,
-kukur,कुकुर,कुकुर,kukur,1,0,Creature / Animal,
-kukurni,कुकुर्नी,कुकुर्नी,kukurni,3,0,Creature / Animal,
+kukur,कुकुर,कुकुर,kukur,1,0,Animal,
+kukurni,कुकुर्नी,कुकुर्नी,kukurni,3,0,Animal,
 kuchaidiu,कुच्याइदिउँ,कुच्याइ दिनु,kuchyaidinu,2,0,Action,
 kuchhaidiu,कुच्चाईदिउँ,कुच्याइ दिनु,kuchyaidinu,2,0,Action,
 kunthit,कूण्ठीत,कुण्ठित,kunthit,1,0,Other,
@@ -154,7 +154,7 @@ kerakha,केराखा,केरा खानु,kera khanu,1,0,Action,Plant
 kodalo,कोदालो,कोदालो,kodalo,1,0,Weapon,
 kaudi,कौडी,कौडी,kaudi,1,0,Other,
 kaude,कौडे,कौडे,kaude,1,0,Other,
-kauwa,कौवा,कौवा,kauwa,1,0,Creature / Animal,
+kauwa,कौवा,कौवा,kauwa,1,0,Animal,
 cancer,क्यान्सर,क्यान्सर,cancer,1,0,Disease,
 krantikari,क्रान्तीकारी ,क्रान्तिकारी,krantikari,1,0,Politics,
 chhetri,क्षेत्री,क्षत्री,chhetri,1,0,Race,Politics
@@ -186,19 +186,19 @@ khedo khanne,खेदो खन्ने,खेदो खन्नु,khedo kha
 khaire,खैरे,खैरे,khaire,1,0,Race,Geographic Location
 khoki,खोकी,खोकी,khoki,1,0,Excretion,
 khoya,खोया,खोयो,khoyo,1,0,Plant,
-Khor,खोर,खोर,Khor,1,0,Other,Creature / Animal
+Khor,खोर,खोर,Khor,1,0,Other,Animal
 khole,खोले,खोले,khole,1,0,Other,
 gajdhr,गजधर,गजाधर,gajadar,1,0,Other,
 gajadar,गजाधर,गजाधर,gajadar,1,0,Other,
 gaddar,गद्दार,गद्दार,gaddar,3,0,Politics,
 gaddari,गद्दारी,गद्दारी,gaddari,2,0,Politics,
-gadha,गधा,गधा,gadha,1,0,Creature / Animal,
-gada,गधा,गधा,gadha,1,0,Creature / Animal,
-gadhaa,गधा,गधा,gadha,1,0,Creature / Animal,
-gdha,गधा,गधा,gadha,1,0,Creature / Animal,
-gadha kukur,गधा कुकुर,गधा कुकुर,gadha kukur,3,0,Creature / Animal,
-gadhale,गधाले,गधाले,gadhale,1,0,Other,Creature / Animal
-gadheni,गधेनि,गधेनी,gadheni,4,0,Creature / Animal,
+gadha,गधा,गधा,gadha,1,0,Animal,
+gada,गधा,गधा,gadha,1,0,Animal,
+gadhaa,गधा,गधा,gadha,1,0,Animal,
+gdha,गधा,गधा,gadha,1,0,Animal,
+gadha kukur,गधा कुकुर,गधा कुकुर,gadha kukur,3,0,Animal,
+gadhale,गधाले,गधाले,gadhale,1,0,Other,Animal
+gadheni,गधेनि,गधेनी,gadheni,4,0,Animal,
 ganaune,गनाउने,गन्हाउने,ganaune,1,0,Other,
 gandha aauchha,गन्ध आउँछ,गन्ध आउँछ,gandha aauchha,1,0,Other,Excretion
 gandhe,गन्धे,गन्धे,gandhe,1,0,Other,Excretion
@@ -213,14 +213,14 @@ gawar,गवार,गवार,gawar,3,0,Other,
 gandu,गान्दु,गाँडू,gandu,4,0,Other,Body Part
 gadhe,गाँढे,गाँडे,gande,2,0,Other,Body Part
 gala futne gari,गाला फुट्ने गरी,गाला फुट्ने गरी,gala futni gari,2,0,Other,
-gidda,गीद्द,गिध्द,Giddha,1,0,Creature / Animal,
+gidda,गीद्द,गिध्द,Giddha,1,0,Animal,
 gilla,गिल्ला,गिल्ला,gilla,2,0,Other,
 gu,गु,गु,gu,2,0,Excretion,
 gu,गू,गु,gu,2,0,Excretion,
 guu,गु,गु,guu,2,0,Excretion,
 gu khane,गु खाने,गु खाने,gu khane,3,0,Action,Excretion
 gu gobar,गु गोवर,गु गोबर,gu gobar,2,0,Excretion,
-gu biraloko jastai lukauchhan,गू बीरालो को जस्तै लूकाऊछन ,गु बिरालोको जस्तै लुकाउनु,gu biraloko jastai lukaunu,4,0,Other,Creature / Animal
+gu biraloko jastai lukauchhan,गू बीरालो को जस्तै लूकाऊछन ,गु बिरालोको जस्तै लुकाउनु,gu biraloko jastai lukaunu,4,0,Other,Animal
 gunyu,गुन्यु,गुन्यु,gunyu,1,0,Cloth,
 gula,गुला,गुला,gula,5,1,Body Part,Sex and Porn
 gulam,गुलाम,गुलाम,gulam,3,0,Politics,
@@ -234,10 +234,10 @@ gothalo baso,गोठालो बसो,गोठालो बस्यो,got
 gobar,गोबर,गोबर,gobar,1,0,Excretion,
 gobar gwach,गोवर ग्वाँच,गोबर ग्वाँच,gobar gwach,4,0,Disability,Excretion
 gobarganesh,गोबरगणेश,गोबरगणेश,gobarganesh,4,0,Disability,Excretion
-gobre,गोव्रे,गोब्रे,gobre,1,0,Creature / Animal,
-goru,गोरु,गोरु,goru,1,0,Creature / Animal,Race
-goru,गोरू,गोरु,goru,1,0,Creature / Animal,Race
-goru ghichera,गोरु घिचेरा,गोरु घिचेर,goru ghichera,3,0,Race,Creature / Animal
+gobre,गोव्रे,गोब्रे,gobre,1,0,Animal,
+goru,गोरु,गोरु,goru,1,0,Animal,Race
+goru,गोरू,गोरु,goru,1,0,Animal,Race
+goru ghichera,गोरु घिचेरा,गोरु घिचेर,goru ghichera,3,0,Race,Animal
 goli,गोली,गोली,goli,1,0,Weapon,
 goli thoknu,गोली ठोक्नु,गोली ठोक्नु,goli thoknu,1,0,Action,
 goli thokknu par6a,गोली ठोक्नु पर्छ,गोली ठोक्नु पर्छ,goli thoknu parchha,3,0,Action,
@@ -269,7 +269,7 @@ chatak,चटक,चटक,chatak,1,0,Other,
 chatake,चटके,चटके,chatake,1,0,Other,
 chandal,चन्डाल,चण्डाल,chandal,3,0,Other,
 chamche,चम्चे,चम्चे,chamche,3,0,Politics,
-challa ,चल्ला,चल्ला,challa,1,0,Creature / Animal,
+challa ,चल्ला,चल्ला,challa,1,0,Animal,
 chak,चाक,चाक,chak,3,0,Body Part,
 chakadi,चाकठि,चाकडी,chakadi,2,0,Politics,
 "chatnu, chhatnu",चाट्नु,चाट्नु,chatnu,1,0,Action,
@@ -305,18 +305,18 @@ chordaka,चोरडाँका,चोरडाका,chordaka,2,0,Other,
 chorni,चोर्नी,चोर्नी,chorni,4,0,Other,
 cholo,चोलो,चोलो,cholo,1,0,Cloth,
 chhakka,छक्का,छक्का,chhakka,1,0,Gender,Sex and Porn
-chhaura,छाउरा,छाउरा,chhaura,1,0,Creature / Animal,
-chhauri,छाउरी,छाउरी,chhauri,1,0,Creature / Animal,
-chauro,छाउरो,छाउरो,chhauro,1,0,Creature / Animal,
+chhaura,छाउरा,छाउरा,chhaura,1,0,Animal,
+chhauri,छाउरी,छाउरी,chhauri,1,0,Animal,
+chauro,छाउरो,छाउरो,chhauro,1,0,Animal,
 chhada,छाडा,छाडा,chhada,2,0,Other,Sex and Porn
 chhad,छाद,छाद,chhad,1,0,Excretion,
 chhi,छि,छी,chhi,1,0,Other,Excretion
 chi chhi,छी छी,छी छी,chhi chhi,1,0,Other,Excretion
 chhura,छुरा,छुरा,chhura,1,0,Weapon,
 chhuelaa,छेउला,छेउला,chheula,1,0,Other,plant?
-chheparo,छेपारो,छेपारो,chheparo,1,0,Creature / Animal,
+chheparo,छेपारो,छेपारो,chheparo,1,0,Animal,
 cher,छेर,छेर,chher,3,0,Excretion,
-chhauda,छौंडा,छौंडा,chhauda,2,0,Creature / Animal,
+chhauda,छौंडा,छौंडा,chhauda,2,0,Animal,
 chhya chhya,छ्या छ्या,छ्या छ्या,chhya chhya,1,0,Other,Excretion
 jagga dalal,जग्गा दलाल,जग्गा दलाल,jagga dalal,4,0,Other,
 jangali,जंगली,जङ्गली,jangali,1,0,Other,Plant
@@ -324,9 +324,9 @@ jangali,जङ्गली,जङ्गली,jangali,1,0,Other,Plant
 jangali,जङ्गली,जङ्गली,jangali,1,0,Other,Geographic Location
 jangali,जङ्गली,जङ्गली,jangali,1,0,Other,Geographic Location
 jata jata bahun baje utai utai swaha,जता जता बाहुन बाजे उतै उतै स्वाहा,जता जता बाहुन बाजे उतै उतै स्वाहा,jata jata bahun baje utai utai swahwa,3,0,Idiom,Race
-janawar,जनावर,जनावर,janawar,1,0,Creature / Animal,
+janawar,जनावर,जनावर,janawar,1,0,Animal,
 janai,जनै,जनै,janai,1,0,Race,
-jantu,जन्तु,जन्तु,jantu,1,0,Creature / Animal,
+jantu,जन्तु,जन्तु,jantu,1,0,Animal,
 jamana ka dekhi ka pugi sakeu ailepani/taipani,जमाना कहाँ देखि कहाँ पुगीसक्यो अहिलेपनि,जमाना कहाँदेखि कहाँसम्म पुगिसक्यो अहिलेपनि,jamana kahandekhi kahan samma pugisakyo ahile pani,1,0,Politics,
 jalaunu,जलाउनु,जलाउनु,jalaunu,1,0,Action,
 jantha,जाँठा,जाँठा,jantha,5,1,Body Part,Sex and Porn
@@ -341,9 +341,9 @@ jiudai jalaunnu,जीउँदै जलाउनु,जीउँदै जल�
 jiudo murda,जीउदो मूर्दा,जीउँदो मूर्दा,jiudo murda,4,0,Death,
 juttako mala,जुताको माला,जुताको माला,juttako mala,2,0,Other,
 jun goru aye pani kano,जून गोरू आएपनी कानो,जुन गोरु आएपनि कानो,jun goru ayepani kano,3,0,Idiom,Politics
-jumra,जूम्रा,जुम्रा,jumra,1,0,Creature / Animal,Body Part
+jumra,जूम्रा,जुम्रा,jumra,1,0,Animal,Body Part
 jumra mareko,जूम्रा मारेको,जुम्रा मारेको,jumra mareko,1,0,Other,Body Part
-jumro,जूम्राे,जुम्रो,jumro,1,0,Creature / Animal,Politics
+jumro,जूम्राे,जुम्रो,jumro,1,0,Animal,Politics
 je ayo tei,जे आयो त्यही,जे आयो त्यही,je ayo tyahi,1,0,Other,
 je khayo tei,जे खायो त्यही,जे खायो त्यही,je khayo tyahi,1,0,Other,
 je payo tei,जे पायो त्यही,जे पायो त्यही,je payo tyahi,1,0,Other,
@@ -357,8 +357,8 @@ jhapali,झापाली,झापाली,jhapali,2,0,Geographic Location,
 jharpat,झारपात,झारपात,jharpat,1,0,Plant,
 jhare,झारे,झारे,jhare,2,0,Other,
 jharnu,झार्नु,झार्नु,jharnu,1,0,Action,
-jhinga,झींगा,झिँगा,jhinga,1,0,Creature / Animal,
-jhinga,झींगा,झिँगा,jhinga,1,0,Creature / Animal,
+jhinga,झींगा,झिँगा,jhinga,1,0,Animal,
+jhinga,झींगा,झिँगा,jhinga,1,0,Animal,
 jhut,झूट,झुट,jhut,1,0,Other,
 jhut,झूट ,झुट,jhut,1,0,Other,
 jhuse,झुसे,झुसे,jhuse,1,0,Other,Body Part
@@ -405,14 +405,14 @@ daamnaa,डाम्ना,डाम्ना,damna,3,0,Race,
 damna,डाम्ना,डाम्ना,damna,3,0,Race,
 damni,डाम्नी,डाम्नी,damni,3,0,Race,
 duku lanthak,डुकु लण्ठक,डुकुलण्ठक,dukulanthak,3,0,Other,
-dukriyera,डूकृएर,डुक्रिएर,dukriyera,1,0,Other,Creature / Animal
-dukriyera,डूकृएर,डुक्रिएर,dukriyera,1,0,Other,Creature / Animal
+dukriyera,डूकृएर,डुक्रिएर,dukriyera,1,0,Other,Animal
+dukriyera,डूकृएर,डुक्रिएर,dukriyera,1,0,Other,Animal
 dundo,डुँडो,डुँडो,dundo,4,0,Disability,
 dan ki dan,ड्याङ की ड्याङ,ड्याङ कि ड्याङ,dyang ki dyang,1,0,Action,
 dhakal,ढकाल,ढकाल,dhakal,1,0,Race,
 dhakan,ढकन्,ढक्कन,dhakkan,1,0,Other,
 dhikuti,धीकूती,ढुकुटी,dhukuti,1,0,Other,
-dhedu,डेडू,ढेडु,dhedu,1,0,Creature / Animal,
+dhedu,डेडू,ढेडु,dhedu,1,0,Animal,
 ta,तँ,तँ,tan,1,0,Other,
 ta gurung,तँ गुरुङ्,तँ गुरुङ्,tan gurung,4,0,Race,
 ta magar,तँ मगर,तँ मगर,tan magar,4,0,Race,
@@ -472,7 +472,7 @@ thukka,ठुक्क,थुक्क,thukka,1,0,Other,Excretion
 thukka,ठूक्क,थुक्क,thukka,1,0,Other,Excretion
 thukka,थुक्क,थुक्क,thukka,1,0,Other,Excretion
 tukka,थुक्क,थुक्क,thukka,1,0,Other,Excretion
-thukka syaal,थुक्क स्याल,थुक्क स्याल,thukka syal,4,0,Creature / Animal,Excretion
+thukka syaal,थुक्क स्याल,थुक्क स्याल,thukka syal,4,0,Animal,Excretion
 thutuno,थुतुनो,थुतुनो,thununo,3,0,Body Part,
 thun,थुन,थुन,thun,3,0,Body Part,
 thuncholi,थुनचोली,थुनचोली,thuncholi,3,0,Cloth,
@@ -529,14 +529,14 @@ desh lutera,देश लूटेरा ,देश लुटेरा,desh lute
 dogla,दोगला ,दोगला,dogala,3,0,Other,Imported
 dhrohoi,द्रोही,द्रोही,drohi,1,0,Politics,
 dhhajji udaunuhunchha,धजी उडाउनूहून्छ,धज्जी उडाउनु,dhajji udaaunu,2,0,Other,
-dhamira,धमीरा,धमिरा,dhamira,1,0,Creature / Animal,
+dhamira,धमीरा,धमिरा,dhamira,1,0,Animal,
 dhikkar chha,धिक्कार छ,धिक्कार छ,dhikkar chha,1,0,Other,
 dhundukari,धुन्दुकारी,धुन्धुकारि,dhundukari,3,0,Other,
 dhundukari,धुन्दुकारी,धुन्धुकारि,dhundukari,3,0,Other,
 dhoti,धोती,धोती,dhoti,1,0,Cloth,Race
 dhoti,धोती,धोती,dhoti,1,0,Race,Cloth
 dhoti ko gu,धोतीको गु,धोतीको गु,dhotiko gu,4,0,Race,Excretion
-dhoti ko chhauro,धाेतिकाे छाउराे,धोतीको छाउरो,dhotiko chhauro,5,1,Race,Creature / Animal
+dhoti ko chhauro,धाेतिकाे छाउराे,धोतीको छाउरो,dhotiko chhauro,5,1,Race,Animal
 dhotini,धोतीनी,धोतीनी,dhotini,5,1,Race,
 nakachara,नकचरा,नकचरो,nakacharo,3,0,Other,
 na khok,नखोक,नखोक,nakhoka,2,0,Other,
@@ -586,8 +586,8 @@ patit,पतित,पतित,patit,2,0,Other,
 patrukar,पत्रूकार,पत्रकार,patrakar,4,0,Other,
 pattur,पत्तुर,पत्रु,patru,4,0,Other,
 patru,पत्रु,पत्रु,patru,4,0,Other,
-pashu,पशु,पशु,pashu,1,0,Creature / Animal,
-pashu,पशु,पशु,pashu,1,0,Creature / Animal,
+pashu,पशु,पशु,pashu,1,0,Animal,
+pashu,पशु,पशु,pashu,1,0,Animal,
 pahade,पहाडे,पहाडे,pahade,3,0,Race,
 pakhanda,पाखण्ड,पाखण्ड,pakhanda,2,0,Other,
 pakhandi,पाखन्डी,पाखण्डी,pakhandi,2,0,Other,
@@ -616,7 +616,7 @@ pap,पाप,पाप,paap,1,0,Other,
 papi,पापी,पापी,papi,1,0,Religion,
 papro,पाप्रो,पाप्रो,papro,1,0,Disease,
 parpachhuke,पारपाचुके,पारपाचुके,parpachuke,1,0,Marriage,
-paltu kukur,पाल्तु कुकुर,पाल्तु कुकुर,paltu kukur,2,0,Creature / Animal,
+paltu kukur,पाल्तु कुकुर,पाल्तु कुकुर,paltu kukur,2,0,Animal,
 pipaasu,पिपासु,पिपासु,pipasu,2,0,Religion,
 pisach,पिसाच,पिसाच,pichac,1,0,Death,
 puchhar,पुच्छर,पुच्छर,puchhar,1,0,Body Part,
@@ -657,7 +657,7 @@ bukumphuse,बूकूम फूशे,बकम्फुसे,bakamphuse,3,0,
 bakbaas,बकवास,बकवास,bakbas,2,0,Other,
 bakbas,बक्बास,बकवास,bakbas,2,0,Other,
 bakabas,वकवास,बकवास,bakbas,2,0,Other,
-bangur,बङुर,बङ्गुर,bangur,1,0,Creature / Animal,
+bangur,बङुर,बङ्गुर,bangur,1,0,Animal,
 bajiya,बजिया,बजिया,bajiya,4,0,Other,
 bajiya,वज्या,बजिया,bajiya,4,0,Other,
 barta boldaixas,वढ्ता वोल्छस्,बढ्ता बोल्नु,badta bolnu,4,0,Other,
@@ -677,11 +677,11 @@ baifale,वाईफाले,बाइफाले,baiphale,5,1,Other,
 bau,वाउ,बाउ,baau,1,0,Relation,
 baauko bihe,वाउको विहे,बाउको बिहे,bahuko bihe,4,0,Marriage,
 bakhrale khayeko biruwa ra bahunle khayeko desh,बाख्राले खाएको बीरूवा र बाहूनले खाएको देश,बाख्राले खाएको बिरुवा र बाहुनले खाएको देश,bakhale khayeko biruwa ra bahunle khayeko desh,4,0,Race,
-bakhri,वाख्री,बाख्री,bakhri,1,0,Creature / Animal,Gender
+bakhri,वाख्री,बाख्री,bakhri,1,0,Animal,Gender
 banji,बाझी,बाँझी,banjhi,5,1,Marriage,
 banjo,बाझो,बाँझो,banjho,1,0,Marriage,
-badar,वाँदर,बाँदर,bandar,1,0,Creature / Animal,
-badarni,वाँँदर्नी,बाँदर्नी,badarni,4,0,Creature / Animal,
+badar,वाँदर,बाँदर,bandar,1,0,Animal,
+badarni,वाँँदर्नी,बाँदर्नी,badarni,4,0,Animal,
 badshaha,बाद्शाहा,बादसाह,badsah,1,0,Politics,
 bame,बामे,बामे,bame,4,0,Politics,
 balnu,वाल्नु,बाल्नु,balnu,1,0,Action,
@@ -713,9 +713,9 @@ bebakup,वेफकुप,बेवकुफ,bewakuph,4,0,Other,
 bewakuf,वेवकुफ,बेवकुफ,bewakuph,4,0,Other,
 bewakuf,वेेवकूफ,बेवकुफ,bewakuph,4,0,Other,
 bokako mukhma kubhindo,बोकाको मूखमा कूभीण्डो,बोकाको मुखमा कुभिन्डो,bokako mukhma kubhindo,1,0,Idiom,
-boke,बोके,बोके,boke,3,0,Creature / Animal,
-boka,बोका,बोको,boko,1,0,Creature / Animal,
-boka,बोका,बोको,boko,1,0,Creature / Animal,
+boke,बोके,बोके,boke,3,0,Animal,
+boka,बोका,बोको,boko,1,0,Animal,
+boka,बोका,बोको,boko,1,0,Animal,
 boksi,बोक्सी,बोक्सी,boksi,5,1,Other,
 boksa,बोक्सा,बोक्सो,bokso,5,1,Other,
 bokso,बोक्सो,बोक्सो,bokso,5,1,Other,
@@ -728,7 +728,7 @@ bra,ब्रा,ब्रा,bra,4,0,Cloth,Imported
 bra,व्रा,ब्रा,bra,4,0,Cloth,Imported
 bramhanbadi,ब्राम्हणवादी,ब्राम्हणवादी,bamhanbadi,4,0,Race,
 blue,ब्लु,ब्लु,blue,1,0,Vulgar,Imported
-bwaso,व्वासो,ब्वाँसो,bwanso,1,0,Creature / Animal,
+bwaso,व्वासो,ब्वाँसो,bwanso,1,0,Animal,
 vaduwa,भडूबा,भँडुवा,bhanduwa,5,1,Other,
 bhaduwa,भाँडुवा,भँडुवा,bhanduwa,5,1,Other,
 bhatuwa,भतुवा,भतुवा,bhanduwa,5,1,Other,
@@ -737,7 +737,7 @@ vatuwa,भतुवा,भतुवा,bhatuwa,5,1,Other,
 bhanaudo,भनाउदा,भनाउँदा,bhanauda,3,0,Other,
 bhariya,भरिया,भरिया,bhariya,1,0,Politics,
 baraute,भरौटे,भरौटे,bharaute,4,0,Politics,
-varkhar umrekaa challa ,भर्खर उम्रेका चल्ला,भर्खर उम्रेका चल्ला,bharkhar umreka chhalla,1,0,Idiom,Creature / Animal
+varkhar umrekaa challa ,भर्खर उम्रेका चल्ला,भर्खर उम्रेका चल्ला,bharkhar umreka chhalla,1,0,Idiom,Animal
 varjin,भर्जिन,भर्जिन,bharjin,5,1,Vulgar,Imported
 virgin,भर्जीन,भर्जिन,bharjin,5,1,Vulgar,Imported
 bhak muji,भाक मूजी ,भाक मुजी,bhak mujhi,5,1,Vulgar,
@@ -748,9 +748,9 @@ bhate,भाते,भाते,bhate,4,0,Politics,
 bhate,भातेे,भाते,bhate,4,0,Other,
 vayan chod,भायन चोद,भायन चोद,bhayan chod,5,1,Other,Imported
 bhala,भाला,भाला,bhala,1,0,Weapon,
-bhalu,भालु,भालु,bhalu,1,0,Creature / Animal,Sex and Porn
-vallu,भालु,भालु,bhalu,1,0,Creature / Animal,Sex and Porn
-valu,भालुु,भालु,bhalu,1,0,Creature / Animal,Sex and Porn
+bhalu,भालु,भालु,bhalu,1,0,Animal,Sex and Porn
+vallu,भालु,भालु,bhalu,1,0,Animal,Sex and Porn
+valu,भालुु,भालु,bhalu,1,0,Animal,Sex and Porn
 bhik dinu,भीख दिनु,भिख दिनु,bhikh dinu,2,0,Politics,
 bhik magnu,भिख माग्नु,भिख माग्नु,bhikh magnu,4,0,Politics,
 bhikhari,भिकारी,भिखारी,bhikhari,4,0,Other,
@@ -758,31 +758,31 @@ vikari,भिखारी,भिखारी,bhikhari,4,0,Other,
 bhikari,भिखारी,भिखारी,bhikhari,4,0,Other,
 bhikari,भीखारी,भिखारी,bhikhari,4,0,Other,
 bhiringi,भिरिङ्गी,भिरिङ्गी,bhiringi,5,1,Disease,Sex and Porn
-bhuknu,भुक्नु,भुक्नु,bhuknu,1,0,Other,Creature / Animal
-vukyo,भुक्यो,भुक्नु,bhuknu,1,0,Other,Creature / Animal
+bhuknu,भुक्नु,भुक्नु,bhuknu,1,0,Other,Animal
+vukyo,भुक्यो,भुक्नु,bhuknu,1,0,Other,Animal
 bhut,भुत,भुत,bhut,1,0,Religion,Death
 bhutrako,भूत्राको,भुत्राको,bhutrako,5,1,Other,Body Part
 bhutroko,भूत्रोको,भुत्राको,bhutrako,5,1,Other,Body Part
 bhutro,भुत्रो,भुत्रो,bhutro,5,1,Body Part,
 bhutla,भुत्ला,भुत्ला,bhutla,1,0,Body Part,
 vutla,भुत्ला,भुत्ला,bhutla,1,0,Body Part,
-bhusuna,भुसुना,भुसुनु,bhusunu,1,0,Creature / Animal,
+bhusuna,भुसुना,भुसुनु,bhusunu,1,0,Animal,
 bheja,भेजा,भेजा,bheja,2,0,Other,
-bheda,भेडा,भेडा,bheda,1,0,Creature / Animal,
-bheda,भेडा,भेडा,bheda,1,0,Creature / Animal,
-bhedaaa,भेडा,भेडा,bheda,1,0,Creature / Animal,
-veada,भेडा,भेडा,bheda,1,0,Creature / Animal,
-veda,भेडा,भेडा,bheda,1,0,Creature / Animal,
-bheda janta,भेडा जन्ता,भेडा जनता,bheda janata,4,0,Politics,Creature / Animal
-bhedaaa haru,भेडाहरु,भेडाहरु,bhedharu,1,0,Creature / Animal,Creature / Animal
-bhedo,भेडो,भेडो,bhedo,4,0,Creature / Animal,
+bheda,भेडा,भेडा,bheda,1,0,Animal,
+bheda,भेडा,भेडा,bheda,1,0,Animal,
+bhedaaa,भेडा,भेडा,bheda,1,0,Animal,
+veada,भेडा,भेडा,bheda,1,0,Animal,
+veda,भेडा,भेडा,bheda,1,0,Animal,
+bheda janta,भेडा जन्ता,भेडा जनता,bheda janata,4,0,Politics,Animal
+bhedaaa haru,भेडाहरु,भेडाहरु,bhedharu,1,0,Animal,Animal
+bhedo,भेडो,भेडो,bhedo,4,0,Animal,
 bhele,भेले,भेले,bhele,5,1,Race,
 vely,भेले,भेले,bhele,5,1,Race,
 bhai topalchha,भै टोपल्छ,भै टोपल्नु,bhai topalnu,4,0,Other,
 bhai topalne,भई टोपल्ने,भै टोपल्ने,bhai topalnu,4,0,Other,
 bhaiya,भैया,भैया,bhaiya,4,0,Race,
-bhaisi,भैंसी,भैंसी,bhaisi,1,0,Creature / Animal,
-bhaishe,भैंसे,भैंसे,bhaise,4,0,Creature / Animal,
+bhaisi,भैंसी,भैंसी,bhaisi,1,0,Animal,
+bhaishe,भैंसे,भैंसे,bhaise,4,0,Animal,
 bhogbilas,भोगविलास,भोगविलास,bhogbilas,2,0,Other,
 bhotini,भोटीनी,भोटिनी,bhotini,4,0,Race,
 bhote,भोटे,भोटे,bhote,4,0,Race,
@@ -850,8 +850,8 @@ muji randi ,मुजी रण्डी,मुजी रण्डी,bujhi rand
 mut,मुत,मुत,mut,5,1,Excretion,
 muntiyechha,मून्टीएछ,मुन्टिनु,muntinu,3,0,Other,
 munto,मुन्टो,मुन्टो,munto,1,0,Body Part,
-murga,मुर्गा,मुर्गा,murga,1,0,Creature / Animal,Imported
-murgi,मुर्गी,मुर्गी,murgi,1,0,Creature / Animal,Imported
+murga,मुर्गा,मुर्गा,murga,1,0,Animal,Imported
+murgi,मुर्गी,मुर्गी,murgi,1,0,Animal,Imported
 murda,मुर्दा,मुर्दा,murda,1,0,Death,
 murda,मूर्दा,मुर्दा,murda,1,0,Death,
 murdabad,मूर्दाबाद,मुर्दावाद,murdabaad,2,0,Other,
@@ -874,7 +874,7 @@ yoni,योन,योनी,yoni,5,1,Body Part,
 yoni,योनी,योनी,yoni,5,1,Body Part,
 yoni,योनी,योनी,yoni,5,1,Body Part,
 yaunanga,यौनाङ्ग,यौनाङ्ग,yaunaga,3,0,Body Part,
-ranga pherne chheparo,रंग फेर्ने छेपारो,रङ फेर्ने छेपारो,rang pherne chheparo,1,0,Idiom,Creature / Animal
+ranga pherne chheparo,रंग फेर्ने छेपारो,रङ फेर्ने छेपारो,rang pherne chheparo,1,0,Idiom,Animal
 ratandho,रतन्धो,रतन्धो,ratandho,1,0,Disease,
 ratna park,रत्न पार्क ,रत्नपार्क,ratnapark,1,0,Geographic Location,
 Ratna park,रत्नपार्क,रत्नपार्क,ratnapark,1,0,Geographic Location,
@@ -897,9 +897,9 @@ rango,राग,रन्डो,rando,5,1,Marriage,Death
 rando,रन्डो,रन्डो,rando,5,1,Marriage,Death
 rai,राई,राई,raai,1,0,Race,
 raini,रईनि,राईनी,raini,4,0,Race,
-rakchhas,राक्षस,राक्षस,rakchhas,1,0,Religion,Creature / Animal
-rakshyas,राक्षस,राक्षस,rakchhas,1,0,Religion,Creature / Animal
-rakchhesni,राक्षस्नी,राक्षस्नी,rakchhasni,4,0,Religion,Creature / Animal
+rakchhas,राक्षस,राक्षस,rakchhas,1,0,Religion,Animal
+rakshyas,राक्षस,राक्षस,rakchhas,1,0,Religion,Animal
+rakchhesni,राक्षस्नी,राक्षस्नी,rakchhasni,4,0,Religion,Animal
 rachi,राची,राँची,ranchhi,1,0,Geographic Location,Disease
 rachi,राँची,राँची,ranchhi,1,0,Geographic Location,Disease
 radi,राडी,राँडी,randi,5,1,Marriage,
@@ -959,10 +959,10 @@ lophar,लोफर,लोफर,lophar,4,0,Other,
 loffar,लोफर,लोफर,lophar,4,0,Other,
 lan,ल्याङ्,ल्याङ्,langlang,1,0,Other,
 bali,वली,वली,bali,1,0,Religion,
-baliko boko,वलीको वोको,वलीको बोको,baliko boko,4,0,Creature / Animal,Religion
+baliko boko,वलीको वोको,वलीको बोको,baliko boko,4,0,Animal,Religion
 baal,वाल,वाल,baal,2,0,Other,
 Wah,वा,वाह,wah,1,0,Other,
-bahan,बहान,वाहन,wahan,1,0,Creature / Animal,
+bahan,बहान,वाहन,wahan,1,0,Animal,
 waihat,वाईयत,वाहियत,wahiyat,2,0,Other,
 waihat,वाईयत,वाहियत,wahiyat,2,0,Other,
 bikhandankari,विखण्डनकारी,विखण्डनकारी,bikhandakari,4,0,Politics,
@@ -998,8 +998,8 @@ sarwanga,सर्वाङ्ग,सर्वाङ्ग,sarwanga,1,0,Other,
 psycho,साईको,साइको,saiko,4,0,Disease,Imported
 sanglo,साङलो,साङ्लो,sanglo,1,0,Weapon,
 sanglole badhnuparne,साङलोले बाँध्नुपर्ने,साङ्लोले बाँध्नुपर्ने,sanglole badhnuparne,4,0,Action,Weapon
-sande,साँडे,साँढे,sandhe,1,0,Creature / Animal,
-sande,साँडे,साँढे,sandhe,1,0,Creature / Animal,
+sande,साँडे,साँढे,sandhe,1,0,Animal,
+sande,साँडे,साँढे,sandhe,1,0,Animal,
 samanti,सामन्ती,सामन्ती,samanti,2,0,Politics,
 saamanti soshsak,सामन्ती शोषक,सामन्ती शोषक,samanti shosak,4,0,Politics,
 sampradayik,साम्प्रदायीक,साम्प्रदायिक,sampradayik,1,0,Race,
@@ -1010,11 +1010,11 @@ saala,साला,साला,sala,3,0,Relation,
 saalaa,साला,साला,sala,3,0,Relation,
 sala,साला,साला,sala,3,0,Relation,
 salaa,साला,साला,sala,3,0,Relation,
-sala kukur,साला कुकुर,साला कुकुर,sala kukur,4,0,Creature / Animal,Mixed
-saalaa kukur,साला कुकुर,साला कुकुर,sala kukur,4,0,Creature / Animal,
+sala kukur,साला कुकुर,साला कुकुर,sala kukur,4,0,Animal,Mixed
+saalaa kukur,साला कुकुर,साला कुकुर,sala kukur,4,0,Animal,
 saala khate,साला खाते,साला खाते,sala khate,4,0,Other,Mixed
 sala pagal,साला पागल,साला पागल,sala pagal,4,0,Disease,Mixed
-sala veda,साला भेडा,साला भेडा,sala bheda,4,0,Creature / Animal,Mixed
+sala veda,साला भेडा,साला भेडा,sala bheda,4,0,Animal,Mixed
 saale,साले,साले,sale,4,0,Relation,
 sale,साले,साले,sale,4,0,Relation,
 sale chor,साले चोर,साले चोर,sale chor,4,0,Relation,Mixed
@@ -1023,9 +1023,9 @@ sigan,सिगान,सिँगान,singan,1,0,Excretion,
 singaru,सिँगारु,सिँगारु,singaru,1,0,Gender,
 sinko bhacheko,सीन्को भाँचेको,सिन्को भाँचेको,sinko bhacheko,2,0,Other,
 sisnupani,सिस्नु पानी,सिस्नु पानी,sisnu pani,1,0,Weapon,Plant
-sugur,सुँगुर,सुँगुर,sungur,1,0,Creature / Animal,
-sugur,सुँगुर,सुँगुर,sungur,1,0,Creature / Animal,
-sugurni,सुँगुर्नी,सुँगुर्नी,sugurni,4,0,Creature / Animal,
+sugur,सुँगुर,सुँगुर,sungur,1,0,Animal,
+sugur,सुँगुर,सुँगुर,sungur,1,0,Animal,
+sugurni,सुँगुर्नी,सुँगुर्नी,sugurni,4,0,Animal,
 sugnu,सुग्नु,सुँघ्नु,sughnu,1,0,Action,
 shoot,सूट,सुट,suut,2,0,Weapon,
 sutto,सुड्डो,सुट्टो,sutto,4,0,Other,
@@ -1036,9 +1036,9 @@ saitan,सैतान,सैतान,saitan,2,0,Religion,Imported
 stan,स्तन,स्तन,stan,5,1,Body Part,Sex and Porn
 strilampat,स्त्रीलम्पट,स्त्रीलम्पट,strilampat,4,0,Vulgar,
 sangyali,स्याङ्जाली,स्याङ्जाली,syangali,1,0,Geographic Location,
-syal,स्याल,स्याल,syal,1,0,Creature / Animal,
-syal,स्याल,स्याल,syal,1,0,Creature / Animal,
-syal,स्याल,स्याल,syal,1,0,Creature / Animal,
+syal,स्याल,स्याल,syal,1,0,Animal,
+syal,स्याल,स्याल,syal,1,0,Animal,
+syal,स्याल,स्याल,syal,1,0,Animal,
 swaghosit,स्वोघोसीत,स्वघोषित,swaghosit,1,0,Politics,
 swapnadosh,स्वप्नदोष,स्वप्नदोष,swapnadosh,5,1,Vulgar,
 swath,स्वाँठ,स्वाँठ,swath,4,0,Other,
@@ -1053,7 +1053,7 @@ hatyara,हत्यारा,ह,hatyara,4,0,Other,
 hatyaara,हत्यारा,ह,hatyara,4,0,Other,
 hatyara,ह,ह,hatyara,4,0,Other,
 hatyara lutera,हत्यारा लुटेरा,हत्यारा लुटेरा,hatyara lutera,4,0,Other,
-hanuman,हनुमान,हनुमान,hanuman,1,0,Creature / Animal,Politics
+hanuman,हनुमान,हनुमान,hanuman,1,0,Animal,Politics
 hanumangiri,हनुमानगिरी,हनुमानगिरी,hanumangiri,4,0,Politics,
 harami,हरामी,हरामी,harami,4,0,Other,
 harami,हरामी,हरामी,harami,4,0,Other,
