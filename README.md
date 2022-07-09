@@ -1,4 +1,4 @@
-# Dataset for Offensive Language Detection in Nepali 
+# Data Set for Offensive Language Detection in Nepali 
 Please contact nobal @AT nowalab .DOT com if you need to get this data set. 
 
 
