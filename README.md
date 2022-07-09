@@ -30,6 +30,7 @@ If you use this data set, please cite our publications [Offensive Language Detec
   year={2015},
   publisher={ACM New York, NY}
 }
+```
 
 # Contact 
 Feel free to contact nobal @AT nowalab .DOT com for any inquiries regarding this work.
